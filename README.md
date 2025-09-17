@@ -1,6 +1,6 @@
 # Hi there, I'm Daria 👋  
 
-💻 I'm an aspiring **Full-Stack Developer** with hands-on experience in building software and web applications.  
+💻 I'm an aspiring **Full-Stack Developer** with practical experience in building software and web applications.  
 I enjoy turning ideas into functional products and exploring both frontend and backend technologies.  
 
 ---
